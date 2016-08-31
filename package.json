@@ -28,9 +28,6 @@
   "homepage": "https://github.com/Nest-UI/nest-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
-    "riot-compiler": "^2.5.4"
-  },
-  "peerDependencies": {
-    "webpack": "^1.5.3"
+    "riot-compiler": "github:riot/compiler"
   }
 }
